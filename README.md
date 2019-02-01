@@ -1,6 +1,6 @@
 ## IO
 
-> Thesis project for the Technological University of the Philippine,
+> Thesis project for the Technological University of the Philippines
 > Energy Monitoring System built on NodeJS
 
 #### Contributors
